@@ -1,1 +1,1 @@
-web: gunicorn dep:app
+web: mvn spring-boot:run
