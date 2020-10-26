@@ -1,1 +1,1 @@
-web: java -jar target/spring-boot-tutorial-context-root-1.0.jar
+web: java -jar target/spring-boot-tutorial-context-root-1.0.jar -Dserver.port=80
