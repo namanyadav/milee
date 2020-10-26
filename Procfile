@@ -1,1 +1,1 @@
-web: java -cp target/classes:target/dependency/* com.StevensMilee.App
+web: java -jar target/spring-boot-tutorial-context-root-1.0.jar
