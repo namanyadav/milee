@@ -7,6 +7,6 @@
 <title>Admin</title>
 </head>
 <body>
-Admin area
+Admin area updated
 </body>
 </html>
